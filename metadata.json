@@ -1,0 +1,17 @@
+{
+  "name": "DMK DAO Token",
+  "symbol": "DDT",
+  "description": "DMK DAO Token (DDT) is the governance and utility token powering the DMK ecosystem. It enables community participation, access, voting, and long-term, community-driven growth within the DMK network.",
+  "image": "PASTE_YOUR_LOGO_IMAGE_URL_HERE",
+  "external_url": "https://dmknewsbot.io",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Governance & Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ]
+}
