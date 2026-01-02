@@ -4,6 +4,7 @@
   "description": "DMK DAO Token (DDT) is the governance and utility token powering the DMK ecosystem. It enables community participation, access, voting, and long-term, community-driven growth within the DMK network.",
   "image": "https://github.com/donwise009/ddt-token-metadata/blob/main/2026-01-01%2020.04.21.jpg",
   "external_url": "https://dmknewsbot.io",
+  "seller_fee_basis_points": 0,
   "attributes": [
     {
       "trait_type": "Token Type",
@@ -13,5 +14,20 @@
       "trait_type": "Network",
       "value": "Solana"
     }
-  ]
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/donwise009/ddt-token-metadata/blob/main/2026-01-01%2020.04.21.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "YOUR_WALLET_ADDRESS",
+        "share": 100
+      }
+    ]
+  }
 }
